@@ -26,3 +26,4 @@ Users can find help with this project by contacting the one who maintains the pr
 The project is maintained by Professor Morris, with contributions provided by Aidan for the ReadME file.
 
 # App Running
+![Screenshot 2024-09-18 153506](https://github.com/user-attachments/assets/ecb99029-7e23-46c0-9a3b-411bdaa8ab06)
